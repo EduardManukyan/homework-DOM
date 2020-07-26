@@ -1,0 +1,28 @@
+#button-content{
+    width: 200px;
+    margin: 20px auto 0;
+    padding: 10px;
+    background: slategrey;
+
+}
+
+.submit-button{
+    border-radius: 50%;
+    width: 100px;
+    height: 40px;
+    background: royalblue;
+    border: 1px solid blue;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    margin-right: 20px;
+    outline: none;
+}
+
+#time-container{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+

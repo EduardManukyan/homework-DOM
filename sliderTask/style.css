@@ -1,0 +1,28 @@
+.layout{
+    margin: 4vh 0;
+    height: 95vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.image{
+    margin: 10px;
+    width: 400px;
+    height: 400px;
+    background-size: cover !important;
+}
+
+.bc1{
+    background: url("./assets/1.jpg") no-repeat;
+}
+
+
+.bc2{
+    background: url("./assets/2.jpg") no-repeat;
+}
+
+.bc3{
+    background: url("./assets/3.jpg") no-repeat;
+}
